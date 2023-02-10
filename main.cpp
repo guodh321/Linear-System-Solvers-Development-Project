@@ -1,7 +1,3 @@
-//
-// Created by Yifan Cheung on 2022/1/20.
-//
-
 #include <fstream>
 #include "Interface.h"
 #include "Solver.h"
