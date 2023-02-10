@@ -13,14 +13,6 @@ The objective of this assignment was to produce an efficient C++ library for sol
 
 
 
-## Live Demonstration
-
-![LiveDemo](https://media.giphy.com/media/NtEGUePGphJb7YO7BE/giphy-downsized-large.gif)
-
-
-
-
-
 ## Getting Started
 
 - **Prerequisite**
@@ -188,12 +180,6 @@ The output solved by Gaussian Elimination:
 Time spent: 0.006 milliseconds
 ------------------------------------------------
 ```
-
-
-
-## Documentation
-
-A well-written 4-page project report that gives a brief description of the project architecture, code structure, input/output, and how to run it can be checked herer [report link](https://github.com/acse-2020/group-assignment-lsg/blob/main/report.pdf)
 
 
 
