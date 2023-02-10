@@ -64,16 +64,7 @@ After running **main.cpp** in the repo, an introduction of this command line too
  -------------------------------------------
 |  MATRIX  LINEAR  SOLVER  COMMANDLINE  TOOL |
  -------------------------------------------
-| Developed by : Team LSG                    |
-|       _       _______  _______             |
-|      ( \      (  ____ \(  ____ \           |
-|      | (      | (    \/| (    \/           |
-|      | |      | (_____ | |                 |
-|      | |      (_____  )| | ____            |
-|      | |            ) || | \_  )           |
-|      | (____/\/\____) || (___) |           |
-|      (_______/\_______)(_______)           |
- -------------------------------------------
+
 
  ------------------------------------------------------
 |                     Matrix Data                      |
@@ -217,15 +208,6 @@ Each solver testing function is written in **Interface::interfaceMatrixTest( )**
 2. **Timing test**
 
 The run time for each solver is timed every time we execute them to solve linear systems. The timing test is integrated in the **Interface::interfaceMatrixTest( )** as well.
-
-
-
-## Authors
-
-- **Team LSG**
-  - [Yifan Zhang](https://github.com/edsml-yz1921)
-  - [Donghu Guo](https://github.com/edsml-dg321)
-  - [Sanjeet Chhokar](https://github.com/SC7818-EDSML)
 
 
 
