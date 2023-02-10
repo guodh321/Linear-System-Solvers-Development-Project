@@ -1,6 +1,6 @@
 # MATRIX  LINEAR  SOLVER  COMMANDLINE  TOOL
 
-The objective of this assignment was to produce an efficient C++ library for solving linear systems of the form Ax = b where A is a matrix and x and b are vectors respectively. We use multiple algorithms for dense and sparse matrices to achieve this objective.
+The objective of this project was to produce an efficient C++ library for solving linear systems of the form Ax = b where A is a matrix and x and b are vectors respectively. We use multiple algorithms for dense and sparse matrices to achieve this objective.
 
 | **Dense solvers implemented**          | **Sparse solver implemented** |
 | -------------------------------------- | ----------------------------- |
