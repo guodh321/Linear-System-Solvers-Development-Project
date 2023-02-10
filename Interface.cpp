@@ -28,16 +28,6 @@ void Interface::interfaceStart() {
     cout << " -------------------------------------------" << endl;
     cout << "|  MATRIX  LINEAR  SOLVER  COMMANDLINE  TOOL |" << endl;
     cout << " -------------------------------------------" << endl;
-    cout << "| Developed by : Team LSG                    |" << endl;
-    cout << "|       _       _______  _______             |" << endl;
-    cout << "|      ( \\      (  ____ \\(  ____ \\           |" << endl;
-    cout << "|      | (      | (    \\/| (    \\/           |" << endl;
-    cout << "|      | |      | (_____ | |                 |" << endl;
-    cout << "|      | |      (_____  )| | ____            |" << endl;
-    cout << "|      | |            ) || | \\_  )           |" << endl;
-    cout << "|      | (____/\\/\\____) || (___) |           |" << endl;
-    cout << "|      (_______/\\_______)(_______)           |" << endl;
-    cout << " -------------------------------------------" << endl;
     cout << endl;
     cout << " ------------------------------------------------------" << endl;
     cout << "|                     Matrix Data                      |" << endl;
