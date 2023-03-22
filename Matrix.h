@@ -1,5 +1,4 @@
-#ifndef GROUP_ASSIGNMENT_LSG_MATRIX_H
-#define GROUP_ASSIGNMENT_LSG_MATRIX_H
+
 
 #pragma once
 /**
@@ -118,6 +117,3 @@ protected:
     bool preallocated = false;
 
 };
-
-
-#endif //GROUP_ASSIGNMENT_LSG_MATRIX_H
